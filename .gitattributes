@@ -1,0 +1,3 @@
+# Ignorar arquivos de cache e build
+/target/* linguist-vendored
+/Cargo.lock linguist-vendored
